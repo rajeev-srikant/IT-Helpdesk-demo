@@ -1,0 +1,63 @@
+[
+  {
+    "ticket_id": "T-1001",
+    "requester_email": "mai.saito@testbank.com",
+    "title": "VPN not connecting from home",
+    "category": "VPN & Remote Access",
+    "priority": "Medium",
+    "team": "Network Team",
+    "status": "In progress",
+    "created": "2026-10-09",
+    "history": [
+      "2026-10-09: Ticket created from email. TB Connect shows 'connection failed'.",
+      "2026-10-10: Network Team: asked user to restart the TB Connect app and the laptop."
+    ],
+    "created_at": "2026-10-09T10:12:00+09:00"
+  },
+  {
+    "ticket_id": "T-1002",
+    "requester_email": "takumi.kobayashi@testbank.com",
+    "title": "Laptop very slow to start",
+    "category": "Hardware",
+    "priority": "Low",
+    "team": "Hardware Team",
+    "status": "New",
+    "created": "2026-10-06",
+    "history": [
+      "2026-10-06: Ticket created. Laptop takes about 10 minutes to start."
+    ],
+    "created_at": "2026-10-06T16:40:00+09:00"
+  },
+  {
+    "ticket_id": "T-1003",
+    "requester_email": "emi.watanabe@testbank.com",
+    "title": "Printer TKY-3F-Printer paper jam error",
+    "category": "Printer",
+    "priority": "Medium",
+    "team": "Service Desk",
+    "status": "Resolved",
+    "created": "2026-10-08",
+    "history": [
+      "2026-10-08: Ticket created. False paper jam error on 3rd floor printer.",
+      "2026-10-09: Service Desk: sensor cleaned, printer working again. Resolved."
+    ],
+    "created_at": "2026-10-08T09:05:00+09:00"
+  },
+  {
+    "ticket_id": "T-1004",
+    "requester_email": "rajeev@testbank.com",
+    "title": "Request: second monitor for home office",
+    "category": "Hardware",
+    "priority": "Low",
+    "team": "Hardware Team",
+    "status": "Waiting for approval",
+    "created": "2026-10-07",
+    "history": [
+      "2026-10-07: Ticket created. Requested a 27-inch monitor for home office.",
+      "2026-10-08: Hardware Team: waiting for manager approval."
+    ],
+    "created_at": "2026-10-07T11:30:00+09:00",
+    "waiting_for": "Your manager's approval (the monitor costs more than the ¥30,000 accessory budget)",
+    "paused_since": "2026-10-08T14:00:00+09:00"
+  }
+]

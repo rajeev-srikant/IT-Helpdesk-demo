@@ -1,0 +1,11 @@
+[
+  {"email": "taro.yamada@testbank.com", "name": "Taro Yamada", "employee_id": "10234", "department": "Sales", "location": "Tokyo HQ, 4th floor"},
+  {"email": "mai.saito@testbank.com", "name": "Mai Saito", "employee_id": "10561", "department": "Marketing", "location": "Remote (Yokohama)"},
+  {"email": "kenji.sato@testbank.com", "name": "Kenji Sato", "employee_id": "55123", "department": "Finance", "location": "Tokyo HQ, 7th floor"},
+  {"email": "yuki.nakamura@testbank.com", "name": "Yuki Nakamura", "employee_id": "20877", "department": "Legal", "location": "Tokyo HQ, 6th floor"},
+  {"email": "emi.watanabe@testbank.com", "name": "Emi Watanabe", "employee_id": "30045", "department": "HR", "location": "Tokyo HQ, 3rd floor"},
+  {"email": "takumi.kobayashi@testbank.com", "name": "Takumi Kobayashi", "employee_id": "40310", "department": "Engineering", "location": "Osaka office"},
+  {"email": "hana.suzuki@testbank.com", "name": "Hana Suzuki", "employee_id": "30112", "department": "Customer Support", "location": "Tokyo HQ, 2nd floor"},
+  {"email": "rajeev@testbank.com", "name": "Rajeev (Demo User)", "employee_id": "99001", "department": "IT", "location": "Tokyo HQ, 5th floor"},
+  {"email": "it_helpdesk@testbank.com", "name": "Aiko Tanaka (IT Admin)", "employee_id": "99002", "department": "IT", "location": "Tokyo HQ, 5th floor", "role": "admin"}
+]
